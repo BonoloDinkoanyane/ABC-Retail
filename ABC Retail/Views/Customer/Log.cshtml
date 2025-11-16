@@ -1,0 +1,25 @@
+﻿@model List<ABC_Retail.Models.QueueLogViewModel>
+
+<h2>Queue Logs</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Message ID</th>
+            <th>Insertion Time (UTC)</th>
+            <th>Message Text</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var log in Model)
+        {
+            <tr>
+                <td>@log.MessageId</td>
+                <td>@log.InsertionTime.ToString?("u")</td>
+                <td>@log.MessageText</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("ExportLogs", "Customer")" class="btn btn-success">Export Logs</a>

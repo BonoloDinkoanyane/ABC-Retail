@@ -1,0 +1,51 @@
+﻿@model List<ABC_Retail.Models.Order>
+@{
+    ViewData["Title"] = "Manage Orders";
+}
+
+<h2 class="mb-4">Manage Orders (Admin)</h2>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-info">No orders found.</div>
+}
+else
+{
+    <table class="table table-striped table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th>Order #</th>
+                <th>User</th>
+                <th>Date</th>
+                <th>Status</th>
+                <th>Total</th>
+                <th>Items</th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var order in Model)
+            {
+                <tr>
+                    <td>@order.OrderId</td>
+                    <td>@order.User?.Email</td>
+                    <td>@order.OrderDate?.ToString("yyyy-MM-dd HH:mm")</td>
+                    <td>@order.Status</td>
+                    <td>R @order.TotalAmount</td>
+                    <td>@order.Items.Count</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@order.OrderId" class="btn btn-primary btn-sm mb-1">View</a>
+
+                        @if (order.Status != "PROCESSED")
+                        {
+                            <a asp-action="Process" asp-route-id="@order.OrderId" class="btn btn-success btn-sm">
+                                Mark as Processed
+                            </a>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

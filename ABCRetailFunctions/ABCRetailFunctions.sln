@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABCRetailFunctions", "ABCRetailFunctions.csproj", "{C8E4B3C0-30C3-4F14-BC24-ACA754ADCF35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8E4B3C0-30C3-4F14-BC24-ACA754ADCF35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8E4B3C0-30C3-4F14-BC24-ACA754ADCF35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8E4B3C0-30C3-4F14-BC24-ACA754ADCF35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8E4B3C0-30C3-4F14-BC24-ACA754ADCF35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {985FD5D7-43FA-4D91-9E54-D9128CC69627}
+	EndGlobalSection
+EndGlobal

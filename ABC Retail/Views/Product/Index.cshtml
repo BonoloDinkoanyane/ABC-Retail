@@ -1,0 +1,51 @@
+﻿@model IEnumerable<ABC_Retail.Models.Product>
+
+<h2>Products</h2>
+
+<!-- only displayed if he user is logged in as an admin -->
+@if (User.IsInRole("Admin"))
+{
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Create New Product</a>
+    </p>
+}
+</p>
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    @foreach (var product in Model)
+    {
+        <div class="col">
+            <div class="card h-100 text-center shadow-sm  border-radius: 15px;">
+                @if (!string.IsNullOrEmpty(product.ImageUrl))
+                {
+                    <img src="@product.ImageUrl" class="card-img-top mx-auto mt-3" alt="Product Image" style="max-height: 200px; object-fit: contain;">
+                }
+                <div class="card-body">
+                    <h5 class="card-title">@product.Name</h5>
+                    <p class="card-text">@product.Description</p>
+                    <p class="card-text"><strong>Category:</strong> @product.Category</p>
+                    <p class="card-text"><strong>Price:</strong> R @product.Price</p>
+                    <p class="card-text"><strong>Stock:</strong> @product.StockQuantity</p>
+                </div>
+                <div class="card-footer d-flex justify-content-center gap-2">
+                    <a asp-action="Details" asp-route-partitionKey="@product.PartitionKey" asp-route-rowKey="@product.RowKey" class="btn btn-info btn-sm">Details</a>
+                    <a asp-action="Edit" asp-route-partitionKey="@product.PartitionKey" asp-route-rowKey="@product.RowKey" class="btn btn-warning btn-sm">Edit</a>
+                    <a asp-action="Delete" asp-route-partitionKey="@product.PartitionKey" asp-route-rowKey="@product.RowKey" class="btn btn-danger btn-sm">Delete</a>
+                </div>
+                <!-- add to cart button is only visible to customers -->
+                @if (User.Identity.IsAuthenticated && User.IsInRole("Customer"))
+                {
+                    <div class="card-footer text-center">
+                        <form asp-controller="Cart" asp-action="Add" method="post">
+                            <input type="hidden" name="partitionKey" value="@product.PartitionKey" />
+                            <input type="hidden" name="rowKey" value="@product.RowKey" />
+                            <button type="submit" class="btn btn-success btn-sm w-100">
+                                Add to Cart
+                            </button>
+                        </form>
+                    </div>
+                }
+            </div>
+        </div>
+    }
+</div>

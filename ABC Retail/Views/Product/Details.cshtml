@@ -1,0 +1,43 @@
+﻿@model ABC_Retail.Models.Product
+
+<h2>Product Details</h2>
+
+<div class="card mx-auto my-4 text-center" style="max-width: 400px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); border-radius: 15px;">
+    @if (!string.IsNullOrEmpty(Model.ImageUrl))
+    {
+        <img src="@Model.ImageUrl" class="card-img-top rounded-top" alt="Product Image" style="object-fit: cover; height: 250px;">
+    }
+    else
+    {
+        <img src="~/images/placeholder.png" class="card-img-top rounded-top" alt="No product image found." style="object-fit: cover; height: 250px;">
+    }
+
+    <div class="card-body">
+        <h5 class="card-title fw-bold">@Model.Name</h5>
+        <p class="card-text text-muted">@Model.Description</p>
+
+        <p class="card-text"><strong>Category:</strong> @Model.Category</p>
+        <p class="card-text"><strong>Price:</strong> R @Model.Price</p>
+        <p class="card-text"><strong>Stock:</strong> @Model.StockQuantity</p>
+
+        <div class="d-flex justify-content-center gap-2 mt-3">
+            @* only shows the 'Add to Cart'' for users signed in as customers *@
+            @if (User.IsInRole("Customer"))
+            {
+                <form asp-controller="Cart" asp-action="Add" method="post">
+                    <input type="hidden" name="partitionKey" value="@Model.PartitionKey" />
+                    <input type="hidden" name="rowKey" value="@Model.RowKey" />
+                    <button type="submit" class="btn btn-success">Add to Cart</button>
+                </form>
+            }
+
+            @* Admin Edit button *@
+            @if (User.IsInRole("Admin"))
+            {
+                <a asp-action="Edit" asp-route-partitionKey="@Model.PartitionKey" asp-route-rowKey="@Model.RowKey" class="btn btn-warning">Edit</a>
+            }
+
+            <a asp-action="Index" class="btn btn-secondary">Back</a>
+        </div>
+    </div>
+</div>

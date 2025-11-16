@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Models",
+    "\\Services",
+    "\\Services\\Functions",
+    "\\Services\\Functions\\CustomerFunctions",
+    "\\Services\\Storage",
+    "\\Views",
+    "\\Views\\Customer",
+    "\\Views\\Shared"
+  ],
+  "SelectedNode": "\\ABC Retail.sln",
+  "PreviewInSolutionExplorer": false
+}

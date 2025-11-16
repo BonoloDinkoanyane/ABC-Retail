@@ -1,0 +1,40 @@
+﻿@model ABC_Retail.Models.Order
+@{
+    ViewData["Title"] = "Order Details";
+}
+
+<h2 class="mb-4">Order #@Model.OrderId</h2>
+
+<div class="mb-3">
+    <strong>Date:</strong> @Model.OrderDate?.ToString("yyyy-MM-dd HH:mm") <br />
+    <strong>Status:</strong> @Model.Status <br />
+    <strong>Total Amount:</strong> R @Model.TotalAmount
+</div>
+
+<hr />
+
+<h4>Items</h4>
+
+<table class="table table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>Product</th>
+            <th>Unit Price</th>
+            <th>Qty</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Items)
+        {
+            <tr>
+                <td>@item.ProductName</td>
+                <td>R @item.UnitPrice</td>
+                <td>@item.Quantity</td>
+                <td>R @(item.UnitPrice* item.Quantity)</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="MyOrders" class="btn btn-secondary mt-3">Back to My Orders</a>

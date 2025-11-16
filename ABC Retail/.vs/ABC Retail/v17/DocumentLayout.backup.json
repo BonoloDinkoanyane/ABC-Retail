@@ -1,0 +1,778 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\services\\functions\\customerfunctions\\customerfunctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:services\\functions\\customerfunctions\\customerfunctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\services\\functions\\productfunctions\\productfunctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:services\\functions\\productfunctions\\productfunctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\viewmodels\\verifyemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:viewmodels\\verifyemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\seeddata\\seedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:seeddata\\seedservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\services\\storage\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:services\\storage\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:controllers\\contractscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\views\\order\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:views\\order\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\views\\order\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:views\\order\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:views\\account\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\views\\home\\customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:views\\home\\customer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:views\\account\\verifyemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\models\\queuelogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:models\\queuelogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|c:\\users\\lab_services_student\\desktop\\cldv6212-poe-st10443065-bonolo-dinkoanyane\\abc retail\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6109F55F-58F0-4FCD-83D1-6F3B1EE48765}|ABC Retail.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:09:49.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T01:09:37.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAZmZmZmYRwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T18:40:30.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAE4AAADQY2ZmZuYgwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T18:49:41.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T11:33:02.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAABMAAAAAOzMzM7MbwHwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T10:13:14.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Models\\Users.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Models\\Users.cs",
+              "RelativeToolTip": "Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T18:42:19.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEwAAAAAqJmZmRkQwFMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T02:03:20.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-14T13:56:40.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAACEAAAAAzszMzMz0vxAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:49:55.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T18:53:58.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABAAAABAMzMzM7MiwAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T02:10:12.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACMAAADgmZmZmVkqwC0AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T01:55:08.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_AccountLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AccountLayout.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AccountLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T02:04:34.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T01:46:16.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerFunctionService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Services\\Functions\\CustomerFunctions\\CustomerFunctionService.cs",
+              "RelativeDocumentMoniker": "Services\\Functions\\CustomerFunctions\\CustomerFunctionService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Services\\Functions\\CustomerFunctions\\CustomerFunctionService.cs",
+              "RelativeToolTip": "Services\\Functions\\CustomerFunctions\\CustomerFunctionService.cs",
+              "ViewState": "AgIAAAQAAABgm5mZmRkmwA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T13:21:24.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductFunctionService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Services\\Functions\\ProductFunctions\\ProductFunctionService.cs",
+              "RelativeDocumentMoniker": "Services\\Functions\\ProductFunctions\\ProductFunctionService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Services\\Functions\\ProductFunctions\\ProductFunctionService.cs",
+              "RelativeToolTip": "Services\\Functions\\ProductFunctions\\ProductFunctionService.cs",
+              "ViewState": "AgIAAAAAAACAjJmZmZn9vw0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:13:46.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VerifyEmailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\ViewModels\\VerifyEmailViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\VerifyEmailViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\ViewModels\\VerifyEmailViewModel.cs",
+              "RelativeToolTip": "ViewModels\\VerifyEmailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T02:38:15.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T02:10:56.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:34:50.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SeedService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\SeedData\\SeedService.cs",
+              "RelativeDocumentMoniker": "SeedData\\SeedService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\SeedData\\SeedService.cs",
+              "RelativeToolTip": "SeedData\\SeedService.cs",
+              "ViewState": "AgIAABkAAAAAHDMzMzPvvx8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T00:23:07.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T11:32:51.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAgAAADgmZmZmdkhwB4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T10:58:08.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwCcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:16:25.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAACAAAAAAEAlwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:39:25.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ContractsController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Controllers\\ContractsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContractsController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Controllers\\ContractsController.cs",
+              "RelativeToolTip": "Controllers\\ContractsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:39:40.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TableStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Services\\Storage\\TableStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\Storage\\TableStorageService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Services\\Storage\\TableStorageService.cs",
+              "RelativeToolTip": "Services\\Storage\\TableStorageService.cs",
+              "ViewState": "AgIAABIAAAAAFgAAAAD6vwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:42:08.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAcAAACg0MzMzMwnwBAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T11:29:56.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T11:00:23.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:25:03.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:24:20.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:28:05.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MyOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Order\\MyOrders.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\MyOrders.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Order\\MyOrders.cshtml",
+              "RelativeToolTip": "Views\\Order\\MyOrders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T10:59:38.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Manage.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Order\\Manage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Manage.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Order\\Manage.cshtml",
+              "RelativeToolTip": "Views\\Order\\Manage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T11:01:06.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T11:09:26.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Account\\ChangePassword.cshtml",
+              "RelativeToolTip": "Views\\Account\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T03:24:13.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Home\\Admin.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Home\\Admin.cshtml",
+              "RelativeToolTip": "Views\\Home\\Admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T03:48:25.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Customer.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Home\\Customer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Customer.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Home\\Customer.cshtml",
+              "RelativeToolTip": "Views\\Home\\Customer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T03:49:13.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ChangePasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ChangePasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T02:39:20.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "VerifyEmail.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\VerifyEmail.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Account\\VerifyEmail.cshtml",
+              "RelativeToolTip": "Views\\Account\\VerifyEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T03:23:17.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "account.css",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\wwwroot\\css\\account.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\account.css",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\wwwroot\\css\\account.css",
+              "RelativeToolTip": "wwwroot\\css\\account.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-14T02:06:48.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABcAAADAZ2ZmZiYgwAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T02:59:40.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AgIAAAcAAABgYGZmZmYAwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:36:04.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "QueueLogViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Models\\QueueLogViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\QueueLogViewModel.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Models\\QueueLogViewModel.cs",
+              "RelativeToolTip": "Models\\QueueLogViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T19:28:31.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\cldv6212-poe-ST10443065-Bonolo-Dinkoanyane\\ABC Retail\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:17:12.249Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
